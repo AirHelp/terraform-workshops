@@ -1,0 +1,7 @@
+**/*.json
+/*.tf
+.terraform/
+**/*.tfstate
+**/*.tfstate.backup*
+**/*.tfstate.*.backup
+/modules/**
