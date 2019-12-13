@@ -3,7 +3,7 @@
 # Goals
 
 1. Use variable to setup VMs machine type
-1. Use command line to change machine type to `g1-small`
+1. Use `./terraform.sh` from command line to change machine type to `g1-small`
 1. Use UI to upgrade it even further - lets go with `n1-standard-1`
 1. Get back to initial setting using terraform 
 
