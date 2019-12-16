@@ -4,9 +4,9 @@
 1. Go to google cloud console: http://console.cloud.google.com
 1. Create new project 
 1. Generate credentials that will be used by terraform 
-  1. Go to `IAM & Admin` -> `Service accounts` section
-  1. Click `Create Service Account`, name `terraform`, role `Project` -> `Owner`
-  1. Click `Create Key`, chose `JSON` format and save it in your work directory
+    1. Go to `IAM & Admin` -> `Service accounts` section
+    1. Click `Create Service Account`, name `terraform`, role `Project` -> `Owner`
+    1. Click `Create Key`, chose `JSON` format and save it in your work directory
 
 
 ## Setting up terraform to use your credentials

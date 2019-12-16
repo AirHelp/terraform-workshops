@@ -12,6 +12,8 @@ It may seem simple when you manage one resource, but often in order to deliver s
   * machine-type
   * name
 * Create new VM using module - `name: master` 
+* At this point do not modify `test` VMs, they will be used in next exercises.
+
 
 # Hints
 

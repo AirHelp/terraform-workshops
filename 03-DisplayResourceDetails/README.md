@@ -9,7 +9,7 @@ In this exercise we will focus on displaying such values during `apply`.
 
 # Success criteria
 
-Dispaly servers private ip address during apply 
+Display servers private ip address during apply 
 
 
 # Cool observations
